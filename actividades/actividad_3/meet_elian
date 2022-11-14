@@ -1,0 +1,11 @@
+guia 3
+
+tenekke, pg 32 explica tensor de reynolds
+
+descomposiocion de reynolds, descompone en velocidad media y fluctuaciones turbulentas de la velocidad
+
+con respecto a las eq de clausura, lo que pasa es que cuando se hace la descomposici'on de reynolds, si bine se expresa la mayoria d ela ecuacion en funci'on de la velocidad media, queda un t'er,mino que implica a las variaciones de la velocidad, y por m'as que se siga haciendo esta metodolog'ia, siempre queda una expresi'on en funci'on de estos t'erminos, por lo que nos vemos obligados a utilizar una modelizaci'on para poder "sacarnos de encima esas expresiones de variaciones de velocidad" y porder expresar la ecuaci'on en funci'on de la velocidad media.
+
+tenekke, pg 32, explica las componentes del tensor de reynolds, donde las diagonales son las "normal stresses" y contribuyen al transporte del "momento medio", las componentes no diagonales son las tensiones de corte y cumplen un rol fundamental en el transporte de la turbulencia.
+
+el problema de clausura de la turbulencia dice que si 
