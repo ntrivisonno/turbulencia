@@ -4,9 +4,9 @@ __pycache__/
 *$py.class
 
 /apuntes/*
-/bibliografia_complementaria/*
-/libros/*
-/papers/*
+bibliografia_complementaria/*
+libros/*
+papers/*
 
 # C extensions
 *.so
