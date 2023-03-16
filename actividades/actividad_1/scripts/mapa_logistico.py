@@ -1,11 +1,11 @@
 """
 
-%@author: ntrivisonno
+@author: ntrivisonno
 
 script for bifurcation diagram or logistic map
  
 Course: Turbulence in Fluxs
-Mapa log'istico: this scripts plots the convergence value of the logistic eq. And has a relation with the difurcation diagram, where the convergence values is different subject to the restriction cte selected.
+Mapa logístico: this scripts plots the convergence value of the logistic eq. And has a relation with the difurcation diagram, where the convergence values is different subject to the restriction cte selected.
 """
 
 # Importamos paquetes

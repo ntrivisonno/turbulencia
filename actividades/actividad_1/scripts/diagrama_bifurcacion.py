@@ -1,15 +1,15 @@
 """
 
-%@author: ntrivisonno
+@author: ntrivisonno
 
 script for bifurcation diagram or logistic map
  
-Course: Turbulence in Flux s
+Course: Turbulence in Fluxs
 Diagrama de bifurcaci'on, Mapa log'istico
 Feigenbaum: Boolean value for print the feigenbaum constant
 """
 
-# Importamos paquetes
+# Libraries
 import numpy as np
 import matplotlib
 matplotlib.rcParams['text.usetex'] = True
